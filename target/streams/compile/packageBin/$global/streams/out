@@ -1,0 +1,7 @@
+[info] Packaging C:\Users\sande\IdeaProjects\jsonparse\target\scala-2.11\jsonparse_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	PostgresJsonLoad$.class
+[debug] 	  C:\Users\sande\IdeaProjects\jsonparse\target\scala-2.11\classes\PostgresJsonLoad$.class
+[debug] 	PostgresJsonLoad.class
+[debug] 	  C:\Users\sande\IdeaProjects\jsonparse\target\scala-2.11\classes\PostgresJsonLoad.class
+[info] Done packaging.
